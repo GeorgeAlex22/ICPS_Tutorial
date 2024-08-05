@@ -10,9 +10,9 @@ dependencies:
   - uncertainties
   - numdifftools
   - tqdm
-  - copy
   - pandas 
   - jupyter
   - pip
   - pip:
     - plothist
+    - copy
